@@ -1,0 +1,1 @@
+        food.random_move()
